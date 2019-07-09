@@ -30,7 +30,7 @@ read [this how to guide](https://guides.github.com/activities/hello-world/).
 
 ## Contribute on GitHub ([see this guide for an introduction to GitHub](https://guides.github.com/activities/hello-world/))
 1. [Read our list of issues](https://github.com/titco/open-trauma-data-bank/issues). All
-work, and in the end pull requests, has to correspond to an issue.
+work, and in the end pull requests, has to correspond to an issue ([see here for an example](https://github.com/titco/open-trauma-data-bank/pull/15/commits)).
 2. Issues that are already worked on by someone else are labeled inprogress.
 Issues are labeled to indicate priority and expected effort involved. If you’re
 new to this you may want to start with issues labeled as effort:low. 

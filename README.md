@@ -12,9 +12,6 @@ central server. To contribute data to the data bank individual centres have to
 comply to data collection standards, quality control, and de-identification
 procedures.
 
-Variable definition
-https://docs.google.com/spreadsheets/d/1xhLi2Gqt7rPQ5NWN1iBpJ9GIBTetg-l2y8uQndnKAd8/edit?ouid=103873024289461359981&usp=sheets_home&ths=true
-
 
 
 

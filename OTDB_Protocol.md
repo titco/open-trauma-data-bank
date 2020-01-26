@@ -84,7 +84,7 @@ The intention of this data bank is to provide data for future research and quali
 
 All patients included in this study were treated regardless of age, sex, or prior medical history. Patients received the same level of care whether they choose to participate in the data bank or not.
 
-**Data management**
+#### Data management**
 
 Project officers will first capture data on paper case record forms. These forms will be archived in a locked cabinet at the centre to which only the principal investigator and the project officers have access. The forms will be archived for as long as required by national and local rules and regulations require. Data will then be transferred from the paper case record forms to a digital database. A database with patient identifiers will be kept locally on the project officers and principal investigators’ hard drives. This database will be encrypted and password protected. The project officers will update the digital database after each follow up. With regular intervals the database will be de-identified locally. In de-identification process all patient and centre identifiers will be removed. The 
 de-identified database will then be merged with databases from other centres that also have implemented a data bank using the same system. This merged de-identified database will then be available in an open public repository, called the Open Trauma Data Bank. Use of the de-identified database for any purpose will be subject to a license that prohibits any attempt at re-identification of patients or centres.

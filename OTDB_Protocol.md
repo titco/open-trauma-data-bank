@@ -26,14 +26,14 @@ This project proposes to implement a trauma data bank at [REPLACE WITH CENTRE NA
 
 ## Methods
 
-#### Design
+### Design
 Data bank implementation.
 
-#### Setting
+### Setting
 
 Hospitals that receive trauma patients.
 
-#### Participants
+### Participants
 **Eligibility criteria**
 
 Patients who present to the emergency department of participating hospitals with history of trauma. History of trauma is defined as having any of the International Classification of Diseases version 10 external causes of morbidity and mortality, codes V01-Y36, as reason for presenting.
@@ -46,7 +46,7 @@ Participants will be enrolled and data will be collected by dedicated research o
 
 Participants will be followed up at the emergency department or on hospital discharge and at 24 hours, 30 days, 6 months, and 12 months. If a participant is still admitted he or she will be followed up in person, otherwise there will be telephone follow ups.
 
-#### Variables
+### Variables
 
 -	All-cause mortality at discharge, 24 hours, 30 days, 6 months and 12 months after arrival to participating hospital
 -	Date and time of death, up until 12 months after arrival to participating hospitals
@@ -60,11 +60,11 @@ Participants will be followed up at the emergency department or on hospital disc
 -	Injury descriptions
 -	Burns specific data like TBSA with depth of burns, inhalational burns, household burns etc
 
-#### Data sources
+### Data sources
 
 Vital signs will be recorded by the project officers using hand held equipment when participants arrive to the emergency department. Demographics and follow up will be collected from participants, participant parties, and hospital records. Procedure data will be collected from hospital health care providers and hospital records.
 
-#### Ethical considerations
+### Ethical considerations
 
 This data bank will be implemented and maintained following the four core principles of medical ethics, i.e. respect for autonomy, non-maleficence, beneficence, and justice. 
 
@@ -84,7 +84,7 @@ The intention of this data bank is to provide data for future research and quali
 
 All patients included in this study were treated regardless of age, sex, or prior medical history. Patients received the same level of care whether they choose to participate in the data bank or not.
 
-#### Data management**
+### Data management**
 
 Project officers will first capture data on paper case record forms. These forms will be archived in a locked cabinet at the centre to which only the principal investigator and the project officers have access. The forms will be archived for as long as required by national and local rules and regulations require. Data will then be transferred from the paper case record forms to a digital database. A database with patient identifiers will be kept locally on the project officers and principal investigators’ hard drives. This database will be encrypted and password protected. The project officers will update the digital database after each follow up. With regular intervals the database will be de-identified locally. In de-identification process all patient and centre identifiers will be removed. The 
 de-identified database will then be merged with databases from other centres that also have implemented a data bank using the same system. This merged de-identified database will then be available in an open public repository, called the Open Trauma Data Bank. Use of the de-identified database for any purpose will be subject to a license that prohibits any attempt at re-identification of patients or centres.

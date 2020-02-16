@@ -95,7 +95,7 @@ de-identified database will then be merged with databases from other centres tha
 4. Kessler RC, Sonnega A, Bromet E, Hughes M, Nelson CB. Posttraumatic stress disorder in the National Comorbidity Survey. Arch Gen Psychiatry. 1995;52(12):1048-60.
 5. Nathens AB, Jurkovich GJ, Rivara FP, Maier RV. Effectiveness of state trauma systems in reducing injury-related mortality: a national evaluation. J Trauma. 2000;48(1):25-30; discussion -1.
 6. Lansink KW, Leenen LP. Do designated trauma systems improve outcome? Curr Opin Crit Care. 2007;13(6):686-90.
-7. NCEPOD. Truma: Who cares? London: National Confidential Enquiry into Patient Outcome and Death; 2007.
+7. NCEPOD. Trauma: Who cares? London: National Confidential Enquiry into Patient Outcome and Death; 2007.
 8. Lockey DJ. Improved Trauma Outcomes after the Introduction of a Trauma System in England. EClinicalMedicine. 2018;2-3:3-4.
 9. Beuran M, Stoica B, Negoi I, Tanase I, Gaspar B, Turculet C, et al. Trauma registry -- a necessity of modern clinical practice. Chirurgia (Bucur). 2014;109(2):157-60.
 10. <a href="https://www.sites.google.com/site/titcoindia/home/research-publications." target="_blank">TITCO. Research Publications [Internet]. 2019 [cited 2019 2019-11-01]. </a>
